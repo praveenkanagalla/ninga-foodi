@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .banner-container {
-    background-image: url("/images/banner.jpeg");
+    background-image: url("/images/banner-img.webp");
     height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
